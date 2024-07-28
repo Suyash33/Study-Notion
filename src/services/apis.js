@@ -1,5 +1,5 @@
 // const BASE_URL = "https://studynotion-va8v.onrender.com/api/v1"
-const BASE_URL = "http://localhost:4000/api/v1"
+const BASE_URL = "https://study-notion-s0kg.onrender.com/api/v1"
 
 
 // AUTH ENDPOINTS
