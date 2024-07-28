@@ -27,7 +27,7 @@ app.use(express.json());
 app.use(cookieParser());
 app.use(
 	cors({
-		origin:"http://localhost:3000",
+		origin:"https://study-notion-s0kg.onrender.com/api/v1",
 		credentials:true,
 	})
 ) 
